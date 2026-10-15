@@ -1,0 +1,94 @@
+{
+    "rest-aphiaclassificationbyaphiaid-137094-0de9acf9.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaClassificationByAphiaID/137094",
+        "status": 200
+    },
+    "rest-aphiaclassificationbyaphiaid-383799-1d49fa40.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaClassificationByAphiaID/383799",
+        "status": 200
+    },
+    "rest-aphiaexternalidbyaphiaid-137094-type-iucn-f45ebf34.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaExternalIDByAphiaID/137094?type=iucn",
+        "status": 200
+    },
+    "rest-aphiaexternalidbyaphiaid-137094-type-ncbi-5286bdad.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaExternalIDByAphiaID/137094?type=ncbi",
+        "status": 200
+    },
+    "rest-aphiaexternalidbyaphiaid-137094-type-tsn-f72b6bf6.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaExternalIDByAphiaID/137094?type=tsn",
+        "status": 200
+    },
+    "rest-aphiaexternalidbyaphiaid-383799-type-iucn-2078b13b.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaExternalIDByAphiaID/383799?type=iucn",
+        "status": 204
+    },
+    "rest-aphiaexternalidbyaphiaid-383799-type-ncbi-a7f7a955.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaExternalIDByAphiaID/383799?type=ncbi",
+        "status": 204
+    },
+    "rest-aphiaexternalidbyaphiaid-383799-type-tsn-02daa081.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaExternalIDByAphiaID/383799?type=tsn",
+        "status": 204
+    },
+    "rest-aphiarecordbyaphiaid-137094-66dda943.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaRecordByAphiaID/137094",
+        "status": 200
+    },
+    "rest-aphiarecordbyaphiaid-383799-72c02ea5.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaRecordByAphiaID/383799",
+        "status": 200
+    },
+    "rest-aphiarecordbyaphiaid-999999999-4ae8703b.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaRecordByAphiaID/999999999",
+        "status": 204
+    },
+    "rest-aphiarecordbyexternalid-134817215-type-iucn-d3d2d5fb.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaRecordByExternalID/134817215?type=iucn",
+        "status": 200
+    },
+    "rest-aphiarecordbyexternalid-180438-type-tsn-c407c1a8.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaRecordByExternalID/180438?type=tsn",
+        "status": 200
+    },
+    "rest-aphiarecordbyexternalid-9728-type-ncbi-2711fe42.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaRecordByExternalID/9728?type=ncbi",
+        "status": 200
+    },
+    "rest-aphiarecordbyexternalid-999999999-type-tsn-3663946a.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaRecordByExternalID/999999999?type=tsn",
+        "status": 204
+    },
+    "rest-aphiarecordsbyname-delphinus-delphis-like-false-marine-only-false-d8e60e50.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaRecordsByName/Delphinus delphis?like=false&marine_only=false",
+        "status": 200
+    },
+    "rest-aphiarecordsbyname-delphinus-like-true-marine-only-false-offset-1-d9e15685.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaRecordsByName/Delphinus?like=true&marine_only=false&offset=1",
+        "status": 200
+    },
+    "rest-aphiarecordsbyname-delphinus-like-true-marine-only-false-offset-1-e5107f4d.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaRecordsByName/Delphinus?like=true&marine_only=false&offset=11",
+        "status": 200
+    },
+    "rest-aphiarecordsbyname-nothingus-nowhereus-like-false-marine-only-fal-6aa91d01.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaRecordsByName/Nothingus nowhereus?like=false&marine_only=false",
+        "status": 204
+    },
+    "rest-aphiasynonymsbyaphiaid-137094-b44ef622.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaSynonymsByAphiaID/137094",
+        "status": 200
+    },
+    "rest-aphiasynonymsbyaphiaid-383799-7048564b.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaSynonymsByAphiaID/383799",
+        "status": 204
+    },
+    "rest-aphiavernacularsbyaphiaid-137094-17732754.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaVernacularsByAphiaID/137094",
+        "status": 200
+    },
+    "rest-aphiavernacularsbyaphiaid-383799-507ab12c.json": {
+        "url": "https://www.marinespecies.org/rest/AphiaVernacularsByAphiaID/383799",
+        "status": 204
+    }
+}

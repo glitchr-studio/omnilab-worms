@@ -1,0 +1,45 @@
+{
+    "name": "omnilab/worms",
+    "type": "library",
+    "description": "Omnilab WoRMS: a taxon of the World Register of Marine Species by its AphiaID, its name, or the ITIS TSN, NCBI taxon or IUCN id WoRMS knows it by - accepted name and status, classification, synonyms, vernacular names, habitat flags, the citation WoRMS asks for, its ITIS, NCBI and IUCN ids as cross-references - and a search of names, through the WoRMS REST service, no key needed.",
+    "keywords": [
+        "science",
+        "biodiversity",
+        "taxonomy",
+        "marine",
+        "worms",
+        "aphia",
+        "omnilab"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marco Meyer",
+            "email": "marco.meyer@glitchr.io"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "glitchr/omnilab": "^1.0@dev",
+        "symfony/http-client": "^6.4|^7.0|^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Omnilab\\Worms\\": ""
+        },
+        "exclude-from-classmap": [
+            "/Tests/"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Omnilab\\Worms\\Tests\\": "Tests/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
