@@ -1,7 +1,7 @@
 # omnilab/worms
 
 WoRMS, the World Register of Marine Species, for
-[glitchr/omnilab](https://github.com/glitchr-studio/omnilab): a taxon by its AphiaID, its name, or
+[omniscient/omnilab](https://github.com/glitchr-studio/omnilab): a taxon by its AphiaID, its name, or
 the ITIS TSN, NCBI taxon or IUCN id WoRMS knows it by - its accepted name and status, its
 classification, its synonyms and vernacular names, WoRMS's habitat flags and the citation it asks
 for; its ITIS, NCBI and IUCN ids as cross-references; its parent, its accepted name and its
